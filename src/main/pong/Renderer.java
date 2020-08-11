@@ -1,4 +1,4 @@
-package pong;
+package main.pong;
 
 import javax.swing.JPanel;
 import java.awt.*;
